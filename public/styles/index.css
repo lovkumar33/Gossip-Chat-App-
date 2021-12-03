@@ -90,7 +90,7 @@ main div.container {
 main div.container div.users-window {
   width: 350px;
   color: #ffffff;
-  background-color: #3f3f3f;
+  background-color: #323232;
   padding: 15px 20px;
   border-radius: 10px;
   margin-right: 20px;
@@ -129,7 +129,7 @@ main div.container div.users-window div.users-list p {
 main div.container div.chat-window {
   width: 100%;
   border-radius: 10px;
-  background-color: #3f3f3f;
+  background-color: #323232;
 }
 
 main div.container div.chat-window div.chats {
@@ -140,7 +140,7 @@ main div.container div.chat-window div.chats {
 
 main div.container div.chat-window div.chats div.user-join {
   font-size: 0.9rem;
-  color: #3f3f3f;
+  color: #323232;
   background-color: #ffffff;
   border-radius: 50px;
   width: -webkit-max-content;
@@ -152,7 +152,7 @@ main div.container div.chat-window div.chats div.user-join {
 }
 
 main div.container div.chat-window div.chats div.message {
-  color: #3f3f3f;
+  color: #323232;
   background-color: #ffffff;
   padding: 5px 15px;
   max-width: 400px;
